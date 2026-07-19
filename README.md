@@ -106,9 +106,3 @@ Model constants (read/write keys, EEPROM reset addresses) come from:
 
 This project stands entirely on their reverse-engineering work. See
 [`NOTICE.md`](NOTICE.md) for attribution details.
-
-## License
-
-Because the model data derives from **epson_print_conf (EUPL-1.2)**, a copyleft
-licence, releasing this repository under **EUPL-1.2** (or a compatible copyleft
-licence) is the straightforward choice. Add a `LICENSE` file before publishing.
